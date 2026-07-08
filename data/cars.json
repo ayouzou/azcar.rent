@@ -1,0 +1,118 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "BMW 3 Series",
+      "brand": "BMW",
+      "model": "320i",
+      "year": 2023,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 350,
+      "images": [
+        "/images/images-cars/class-a-berline.png",
+        "/images/images-cars/merc-cla.png",
+        "/images/images-cars/class220.png",
+        "/images/images-cars/class-a-hatshback.png"
+      ],
+      "description": "Luxury sedan with premium features",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Parking Camera"]
+    },
+    {
+      "id": 2,
+      "name": "Mercedes-Benz C-Class",
+      "brand": "Mercedes-Benz",
+      "model": "C300",
+      "year": 2023,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 420,
+      "images": [
+        "/images/images-cars/merc-cla.png",
+        "/images/images-cars/class-a-berline.png",
+        "/images/images-cars/class220.png",
+        "/images/images-cars/volk-troc.png"
+      ],
+      "description": "Premium executive sedan with advanced technology",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Navigation System"]
+    },
+    {
+      "id": 3,
+      "name": "Nissan Altima",
+      "brand": "Nissan",
+      "model": "2.5L",
+      "year": 2022,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 280,
+      "images": [
+        "/images/images-cars/clio5.png",
+        "/images/images-cars/clio5-1.png",
+        "/images/images-cars/peugeot208.png",
+        "/images/images-cars/fiat500.png"
+      ],
+      "description": "Comfortable midsize sedan for families",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Bluetooth"]
+    },
+    {
+      "id": 4,
+      "name": "Toyota Corolla",
+      "brand": "Toyota",
+      "model": "2.0L",
+      "year": 2023,
+      "seats": 5,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "pricePerDay": 250,
+      "images": [
+        "/images/images-cars/peugeot208.png",
+        "/images/images-cars/clio5.png",
+        "/images/images-cars/dacia-logan.png",
+        "/images/images-cars/fiat500.png"
+      ],
+      "description": "Reliable and fuel-efficient sedan",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Radio"]
+    },
+    {
+      "id": 5,
+      "name": "Renault Scenic",
+      "brand": "Renault",
+      "model": "1.6",
+      "year": 2022,
+      "seats": 7,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "pricePerDay": 320,
+      "images": [
+        "/images/images-cars/dacia-duster.png",
+        "/images/images-cars/kia-sportage.png",
+        "/images/images-cars/hyundai-tucson.png",
+        "/images/images-cars/volk-touarg.png"
+      ],
+      "description": "Spacious MPV perfect for families and groups",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Cruise Control"]
+    },
+    {
+      "id": 6,
+      "name": "Hyundai Tucson",
+      "brand": "Hyundai",
+      "model": "2.0L",
+      "year": 2023,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 310,
+      "images": [
+        "/images/images-cars/hyundai-tucson.png",
+        "/images/images-cars/kia-sportage.png",
+        "/images/images-cars/cretahyundai.png",
+        "/images/images-cars/volk-touarg.png"
+      ],
+      "description": "Modern SUV with great handling and comfort",
+      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Backup Camera"]
+    }
+  ]
+}

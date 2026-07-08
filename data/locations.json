@@ -1,0 +1,76 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Casablanca Airport",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "lat": 33.3734,
+      "lng": -7.5898,
+      "address": "Mohammed V International Airport, Casablanca"
+    },
+    {
+      "id": 2,
+      "name": "Marrakech Airport",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "lat": 31.6295,
+      "lng": -8.0088,
+      "address": "Marrakech Menara Airport"
+    },
+    {
+      "id": 3,
+      "name": "Agadir Airport",
+      "city": "Agadir",
+      "country": "Morocco",
+      "lat": 30.3268,
+      "lng": -9.5881,
+      "address": "Agadir Al Massira Airport"
+    },
+    {
+      "id": 4,
+      "name": "Tangier Airport",
+      "city": "Tangier",
+      "country": "Morocco",
+      "lat": 35.5734,
+      "lng": -5.9169,
+      "address": "Tangier Ibn Battuta Airport"
+    },
+    {
+      "id": 5,
+      "name": "Fes Airport",
+      "city": "Fes",
+      "country": "Morocco",
+      "lat": 33.9233,
+      "lng": -4.9950,
+      "address": "Fes-Saïs Airport"
+    },
+    {
+      "id": 6,
+      "name": "Downtown Casablanca",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "address": "Hassan II Boulevard, Casablanca"
+    },
+    {
+      "id": 7,
+      "name": "Downtown Marrakech",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "address": "Jemaa el-Fnaa Square, Marrakech"
+    },
+    {
+      "id": 8,
+      "name": "Downtown Agadir",
+      "city": "Agadir",
+      "country": "Morocco",
+      "lat": 30.4202,
+      "lng": -9.5981,
+      "address": "Beach Front, Agadir"
+    }
+  ]
+}

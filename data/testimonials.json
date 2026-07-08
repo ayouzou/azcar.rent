@@ -1,0 +1,52 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "location": "New York, USA",
+      "rating": 5,
+      "comment": "Amazing experience exploring Morocco with AZ Rent Car! The vehicle was in perfect condition and customer service was outstanding. I'll definitely rent again!",
+      "date": "2024-06-15"
+    },
+    {
+      "id": 2,
+      "name": "Emma Wilson",
+      "location": "London, United Kingdom",
+      "rating": 5,
+      "comment": "Brilliant rental service! Easy booking, affordable prices, and a wonderful team. My family and I had an unforgettable trip across Morocco. Highly recommended!",
+      "date": "2024-06-10"
+    },
+    {
+      "id": 3,
+      "name": "Pierre Dubois",
+      "location": "Paris, France",
+      "rating": 5,
+      "comment": "Excellent service du début à la fin! Les voitures sont en parfait état et l'équipe était très professionnelle. Je recommande fortement AZ Rent Car!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 4,
+      "name": "Sofia Rossi",
+      "location": "Milan, Italy",
+      "rating": 5,
+      "comment": "Servizio eccellente! Le auto sono comodissime, il team è disponibilissimo, e i prezzi sono molto competitivi. Perfetto per esplorare il Marocco!",
+      "date": "2024-05-28"
+    },
+    {
+      "id": 5,
+      "name": "Sarah Miller",
+      "location": "Sydney, Australia",
+      "rating": 5,
+      "comment": "Fantastic car rental company! Professional, reliable, and great value for money. Exploring Morocco was amazing thanks to AZ Rent Car!",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 6,
+      "name": "Hans Mueller",
+      "location": "Berlin, Germany",
+      "rating": 4,
+      "comment": "Sehr zuverlässig und professionell! Die Autos sind in ausgezeichnetem Zustand. Gutes Preis-Leistungs-Verhältnis. Werde wieder mieten!",
+      "date": "2024-05-15"
+    }
+  ]
+}
