@@ -4,16 +4,16 @@ import { AppProvider } from '@/app/context/AppContext'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://azrentcar.com'),
+  metadataBase: new URL('https://azcar-rent.vercel.app/'),
   title: 'AZ Rent Car - Premium Car Rental in Morocco | Best Rates & Service',
   description: 'Rent premium cars across Morocco with AZ Rent Car. Available at Mohamed V Airport and major cities. 24/7 support, best rates, and reliable service since 2018.',
   keywords: 'car rental Morocco, rent car Casablanca, car hire airport, vehicle rental, luxury car rental, budget rental cars, car rental Marrakech, car rental Agadir',
-  generator: 'v0.app',
+  generator: 'by me Ayoub zouine',
   robots: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://azrentcar.com',
+    url: 'https://azcar-rent.vercel.app/',
     siteName: 'AZ Rent Car',
     title: 'AZ Rent Car - Premium Car Rental in Morocco',
     description: 'Rent premium cars across Morocco with AZ Rent Car. Available at Mohamed V Airport and major cities.',
@@ -36,21 +36,21 @@ export const metadata: Metadata = {
     images: ['/twitter-image.jpg'],
   },
   alternates: {
-    canonical: 'https://azrentcar.com',
+    canonical: 'https://azcar-rent.vercel.app/',
     languages: {
-      'en-US': 'https://azrentcar.com/en',
-      'fr-FR': 'https://azrentcar.com/fr',
-      'ar-MA': 'https://azrentcar.com/ar',
+      'en-US': 'https://azcar-rent.vercel.app//en',
+      'fr-FR': 'https://azcar-rent.vercel.app//fr',
+      'ar-MA': 'https://azcar-rent.vercel.app//ar',
     },
   },
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/icon.svg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/icon.svg',
         media: '(prefers-color-scheme: dark)',
       },
       {
@@ -79,7 +79,7 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: 'AZ Rent Car',
-    image: 'https://azrentcar.com/og-image.jpg',
+    image: 'https://azcar-rent.vercel.app//og-image.jpg',
     description: 'Premium car rental service in Morocco with 24/7 support and best rates.',
     address: {
       '@type': 'PostalAddress',
@@ -91,7 +91,7 @@ export default function RootLayout({
     },
     telephone: '+212608652898',
     email: 'info@azrentcar.com',
-    url: 'https://azrentcar.com',
+    url: 'https://azcar-rent.vercel.app/',
     sameAs: [
       'https://www.facebook.com/azrentcar',
       'https://www.instagram.com/azrentcar',
