@@ -2,117 +2,481 @@
   "cars": [
     {
       "id": 1,
-      "name": "BMW 3 Series",
+      "name": "Mercedes-Benz class A berline",
       "brand": "BMW",
       "model": "320i",
-      "year": 2023,
+      "year": 2026,
       "seats": 5,
       "transmission": "Automatic",
-      "fuelType": "Petrol",
-      "pricePerDay": 350,
+      "fuelType": "Diesel",
+      "pricePerDay": 1300,
       "images": [
         "/images/images-cars/class-a-berline.png",
-        "/images/images-cars/merc-cla.png",
-        "/images/images-cars/class220.png",
-        "/images/images-cars/class-a-hatshback.png"
+        "/images/images-cars/class-a-berline.png",
+        "/images/images-cars/class-a-berline.png",
+        "/images/images-cars/class-a-berline.png"
       ],
-      "description": "Luxury sedan with premium features",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Parking Camera"]
+      "description": " Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Parking Camera"
+      ]
     },
     {
       "id": 2,
-      "name": "Mercedes-Benz C-Class",
+      "name": "Mercedes-Benz CLA",
       "brand": "Mercedes-Benz",
       "model": "C300",
       "year": 2023,
       "seats": 5,
       "transmission": "Automatic",
-      "fuelType": "Petrol",
-      "pricePerDay": 420,
+      "fuelType": "Diesel",
+      "pricePerDay": 1400,
       "images": [
         "/images/images-cars/merc-cla.png",
-        "/images/images-cars/class-a-berline.png",
-        "/images/images-cars/class220.png",
-        "/images/images-cars/volk-troc.png"
+        "/images/images-cars/merc-cla.png",
+        "/images/images-cars/merc-cla.png",
+        "/images/images-cars/merc-cla.png"
       ],
       "description": "Premium executive sedan with advanced technology",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Navigation System"]
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Navigation System",
+        "USB Port"
+      ]
     },
     {
       "id": 3,
-      "name": "Nissan Altima",
-      "brand": "Nissan",
+      "name": "volkswagen t-roc",
+      "brand": "Volkswagen",
       "model": "2.5L",
-      "year": 2022,
+      "year": 2026,
       "seats": 5,
       "transmission": "Automatic",
-      "fuelType": "Petrol",
-      "pricePerDay": 280,
+      "fuelType": "Diesel",
+      "pricePerDay": 650,
       "images": [
-        "/images/images-cars/clio5.png",
-        "/images/images-cars/clio5-1.png",
-        "/images/images-cars/peugeot208.png",
-        "/images/images-cars/fiat500.png"
+        "/images/images-cars/volk-troc.png",
+        "/images/images-cars/volk-troc.png",
+        "/images/images-cars/volk-troc.png",
+        "/images/images-cars/volk-troc.png"
       ],
       "description": "Comfortable midsize sedan for families",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Bluetooth"]
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Bluetooth",
+        "GPS Navigation"
+      ]
     },
     {
       "id": 4,
-      "name": "Toyota Corolla",
-      "brand": "Toyota",
+      "name": "Classe A Hatchback",
+      "brand": "Mercedes-Benz",
       "model": "2.0L",
-      "year": 2023,
+      "year": 2026,
       "seats": 5,
-      "transmission": "Manual",
-      "fuelType": "Petrol",
-      "pricePerDay": 250,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 1300,
       "images": [
-        "/images/images-cars/peugeot208.png",
-        "/images/images-cars/clio5.png",
-        "/images/images-cars/dacia-logan.png",
-        "/images/images-cars/fiat500.png"
+        "/images/images-cars/class-a-hatshback.png",
+        "/images/images-cars/class-a-hatshback.png",
+        "/images/images-cars/class-a-hatshback.png",
+        "/images/images-cars/class-a-hatshback.png"
       ],
       "description": "Reliable and fuel-efficient sedan",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Radio"]
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Radio",
+        "Bluetooth",
+        "GPS Navigation"
+      ]
     },
     {
       "id": 5,
-      "name": "Renault Scenic",
-      "brand": "Renault",
+      "name": "Dacia Duster",
+      "brand": "Dacia",
       "model": "1.6",
-      "year": 2022,
-      "seats": 7,
-      "transmission": "Manual",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Manual or Automatic",
       "fuelType": "Diesel",
-      "pricePerDay": 320,
+      "pricePerDay": 500,
       "images": [
         "/images/images-cars/dacia-duster.png",
-        "/images/images-cars/kia-sportage.png",
-        "/images/images-cars/hyundai-tucson.png",
-        "/images/images-cars/volk-touarg.png"
+        "/images/images-cars/dacia-duster.png",
+        "/images/images-cars/dacia-duster.png",
+        "/images/images-cars/dacia-duster.png"
       ],
       "description": "Spacious MPV perfect for families and groups",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Cruise Control"]
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Cruise Control"
+      ]
     },
     {
       "id": 6,
       "name": "Hyundai Tucson",
       "brand": "Hyundai",
       "model": "2.0L",
-      "year": 2023,
+      "year": 2026,
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Petrol",
-      "pricePerDay": 310,
+      "pricePerDay": 600,
       "images": [
         "/images/images-cars/hyundai-tucson.png",
-        "/images/images-cars/kia-sportage.png",
-        "/images/images-cars/cretahyundai.png",
-        "/images/images-cars/volk-touarg.png"
+        "/images/images-cars/hyundai-tucson.png",
+        "/images/images-cars/hyundai-tucson.png",
+        "/images/images-cars/hyundai-tucson.png"
       ],
       "description": "Modern SUV with great handling and comfort",
-      "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags", "Backup Camera"]
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Backup Camera"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Peugeot 208",
+      "brand": "Peugeot",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic OR Manual",
+      "fuelType": "Diesel",
+      "pricePerDay": 400,
+      "images": [
+        "/images/images-cars/peugeot208.png",
+        "/images/images-cars/peugeot208.png",
+        "/images/images-cars/peugeot208.png",
+        "/images/images-cars/peugeot208.png"
+      ],
+      "description": "Modern hatchback with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Backup Camera"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Renault clio 5",
+      "brand": "Renault",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic OR Manual",
+      "fuelType": "Diesel",
+      "pricePerDay": 400,
+      "images": [
+        "/images/images-cars/clio5.png",
+        "/images/images-cars/clio5-1.png",
+        "/images/images-cars/clio5.png",
+        "/images/images-cars/clio5-1.png"
+      ],
+      "description": "Modern hatchback with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Backup Camera"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dacia logan",
+      "brand": "Dacia",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "pricePerDay": 350,
+      "images": [
+        "/images/images-cars/dacia-logan.png",
+        "/images/images-cars/dacia-logan-1.png",
+        "/images/images-cars/dacia-logan.png",
+        "/images/images-cars/dacia-logan-1.png"
+      ],
+      "description": "Modern hatchback with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Backup Camera"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "kia sportage",
+      "brand": "kia",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 600,
+      "images": [
+        "/images/images-cars/kia-sportage.png",
+        "/images/images-cars/kia-sportage.png",
+        "/images/images-cars/kia-sportage.png",
+        "/images/images-cars/kia-sportage.png"
+      ],
+      "description": "Modern SUV with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "Power Steering",
+        "ABS",
+        "Airbags",
+        "Backup Camera"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "fiat 500",
+      "brand": "fiat",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Gasoline",
+      "pricePerDay": 400,
+      "images": [
+        "/images/images-cars/fiat500.png",
+        "/images/images-cars/fiat500.png",
+        "/images/images-cars/fiat500.png",
+        "/images/images-cars/fiat500.png"
+      ],
+      "description": "Modern SUV with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hyundai creta",
+      "brand": "Hyundai",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Gasoline",
+      "pricePerDay": 450,
+      "images": [
+        "/images/images-cars/cretahyundai.png",
+        "/images/images-cars/cretahyundai.png",
+        "/images/images-cars/cretahyundai.png",
+        "/images/images-cars/cretahyundai.png"
+      ],
+      "description": "Modern SUV with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hyundai accent",
+      "brand": "Hyundai",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Gasoline",
+      "pricePerDay": 400,
+      "images": [
+        "/images/images-cars/accent.png",
+        "/images/images-cars/accent.png",
+        "/images/images-cars/accent.png",
+        "/images/images-cars/accent.png"
+      ],
+      "description": "Modern SUV with great handling and comfort",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Classe c220",
+      "brand": "Mercedes-Benz",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 1500,
+      "images": [
+        "/images/images-cars/class220.png",
+        "/images/images-cars/class220.png",
+        "/images/images-cars/class220.png",
+        "/images/images-cars/class220.png"
+      ],
+      "description": "Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Range Rover Evoque",
+      "brand": "Land Rover",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 1100,
+      "images": [
+        "/images/images-cars/range-rover-evoque.png",
+        "/images/images-cars/range-rover-evoque.png",
+        "/images/images-cars/range-rover-evoque.png",
+        "/images/images-cars/range-rover-evoque.png"
+      ],
+      "description": "Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+     {
+      "id": 16,
+      "name": "Land Rover sport",
+      "brand": "Land Rover",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 2000,
+      "images": [
+        "/images/images-cars/range-rover-sport.webp",
+        "/images/images-cars/range-rover-sport.webp",
+        "/images/images-cars/range-rover-sport.webp",
+        "/images/images-cars/range-rover-sport.webp"
+      ],
+      "description": "Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Volkswagen Touareg Executive",
+      "brand": "Volkswagen",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 1800,
+      "images": [
+        "/images/images-cars/volk-touarg.png",
+        "/images/images-cars/volk-touarg.png",
+        "/images/images-cars/volk-touarg.png",
+        "/images/images-cars/volk-touarg.png"
+      ],
+      "description": "Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags",
+        "USB Port"
+      ]
+    },
+     {
+      "id": 18,
+      "name": "Volkswagen Golf 8,5",
+      "brand": "Volkswagen",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 700,
+      "images": [
+        "/images/images-cars/golf-8.png",
+        "/images/images-cars/golf-8.png",
+        "/images/images-cars/golf-8.png",
+        "/images/images-cars/golf-8.png"
+      ],
+      "description": "Luxury sedan with advanced features and performance",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags"
+      ]
+    },
+     {
+      "id": 19,
+      "name": "dacia Jogger",
+      "brand": "Dacia",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "pricePerDay": 450,
+      "images": [
+        "/images/images-cars/jogger.png",
+        "/images/images-cars/jogger.png",
+        "/images/images-cars/jogger.png",
+        "/images/images-cars/jogger.png"
+      ],
+      "description": "",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags"
+      ]
     }
+   
   ]
 }
