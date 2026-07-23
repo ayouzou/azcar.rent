@@ -12,9 +12,10 @@
       "pricePerDay": 1300,
       "images": [
         "/images/images-cars/class-a-berline.png",
-        "/images/images-cars/class-a-berline.png",
-        "/images/images-cars/class-a-berline.png",
-        "/images/images-cars/class-a-berline.png"
+        "/images/images-cars/images-reel/mercedes-1.jpeg",
+        "/images/images-cars/images-reel/mercedes-2.jpeg",
+        "/images/images-cars/images-reel/mercedes-3.jpeg",
+        "/images/images-cars/images-reel/mercedes-4.jpeg"
       ],
       "description": " Luxury sedan with advanced features and performance",
       "features": [
@@ -63,9 +64,13 @@
       "pricePerDay": 650,
       "images": [
         "/images/images-cars/volk-troc.png",
-        "/images/images-cars/volk-troc.png",
-        "/images/images-cars/volk-troc.png",
-        "/images/images-cars/volk-troc.png"
+        "/images/images-cars/images-reel/vw-t-roc-1.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-2.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-3.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-4.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-5.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-6.jpeg",
+        "/images/images-cars/images-reel/vw-t-roc-7.jpeg"
       ],
       "description": "Comfortable midsize sedan for families",
       "features": [
@@ -116,9 +121,10 @@
       "pricePerDay": 500,
       "images": [
         "/images/images-cars/dacia-duster.png",
-        "/images/images-cars/dacia-duster.png",
-        "/images/images-cars/dacia-duster.png",
-        "/images/images-cars/dacia-duster.png"
+        "/images/images-cars/images-reel/dacia-duster-1.jpeg",
+        "/images/images-cars/images-reel/dacia-duster-2.jpeg",
+        "/images/images-cars/images-reel/dacia-duster-3.jpeg",
+        "/images/images-cars/images-reel/dacia-duster-4.jpeg"
       ],
       "description": "Spacious MPV perfect for families and groups",
       "features": [
@@ -141,9 +147,10 @@
       "pricePerDay": 600,
       "images": [
         "/images/images-cars/hyundai-tucson.png",
-        "/images/images-cars/hyundai-tucson.png",
-        "/images/images-cars/hyundai-tucson.png",
-        "/images/images-cars/hyundai-tucson.png"
+        "/images/images-cars/images-reel/hyundai-tucson-1.jpeg",
+        "/images/images-cars/images-reel/hyundai-tucson-2.jpeg",
+        "/images/images-cars/images-reel/hyundai-tucson-3.jpeg",
+        "/images/images-cars/images-reel/hyundai-tucson-4.jpeg"
       ],
       "description": "Modern SUV with great handling and comfort",
       "features": [
@@ -166,9 +173,10 @@
       "pricePerDay": 400,
       "images": [
         "/images/images-cars/peugeot208.png",
-        "/images/images-cars/peugeot208.png",
-        "/images/images-cars/peugeot208.png",
-        "/images/images-cars/peugeot208.png"
+        "/images/images-cars/images-reel/208-1.jpeg",
+        "/images/images-cars/images-reel/208-2.jpeg",
+        "/images/images-cars/images-reel/208-3.jpeg",
+        "/images/images-cars/images-reel/208-4.jpeg"
       ],
       "description": "Modern hatchback with great handling and comfort",
       "features": [
@@ -192,8 +200,12 @@
       "images": [
         "/images/images-cars/clio5.png",
         "/images/images-cars/clio5-1.png",
-        "/images/images-cars/clio5.png",
-        "/images/images-cars/clio5-1.png"
+        "/images/images-cars/images-reel/renault-clio-1.jpeg",
+        "/images/images-cars/images-reel/renault-clio-2.jpeg",
+        "/images/images-cars/images-reel/renault-clio-3.jpeg",
+        "/images/images-cars/images-reel/renault-clio-4.jpeg",
+        "/images/images-cars/images-reel/renault-clio-5.jpeg",
+        "/images/images-cars/images-reel/renault-clio-6.jpeg"
       ],
       "description": "Modern hatchback with great handling and comfort",
       "features": [
@@ -216,9 +228,12 @@
       "pricePerDay": 350,
       "images": [
         "/images/images-cars/dacia-logan.png",
-        "/images/images-cars/dacia-logan-1.png",
-        "/images/images-cars/dacia-logan.png",
-        "/images/images-cars/dacia-logan-1.png"
+        "/images/images-cars/images-reel/dacia-logan-1.jpeg",
+        "/images/images-cars/images-reel/dacia-logan-2.jpeg",
+        "/images/images-cars/images-reel/dacia-logan-3.jpeg",
+        "/images/images-cars/images-reel/dacia-logan-4.jpeg",
+        "/images/images-cars/images-reel/dacia-logan-5.jpeg",
+        "/images/images-cars/images-reel/dacia-logan-6.jpeg"
       ],
       "description": "Modern hatchback with great handling and comfort",
       "features": [
@@ -263,7 +278,7 @@
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Gasoline",
-      "pricePerDay": 400,
+      "pricePerDay": 350,
       "images": [
         "/images/images-cars/fiat500.png",
         "/images/images-cars/fiat500.png",
@@ -288,12 +303,13 @@
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Gasoline",
-      "pricePerDay": 450,
+      "pricePerDay": 500,
       "images": [
         "/images/images-cars/cretahyundai.png",
-        "/images/images-cars/cretahyundai.png",
-        "/images/images-cars/cretahyundai.png",
-        "/images/images-cars/cretahyundai.png"
+        "/images/images-cars/images-reel/hyundai-creta-1.jpeg",
+        "/images/images-cars/images-reel/hyundai-creta-2.jpeg",
+        "/images/images-cars/images-reel/hyundai-creta-3.jpeg",
+        "/images/images-cars/images-reel/hyundai-creta-4.jpeg"
       ],
       "description": "Modern SUV with great handling and comfort",
       "features": [
@@ -316,9 +332,10 @@
       "pricePerDay": 400,
       "images": [
         "/images/images-cars/accent.png",
-        "/images/images-cars/accent.png",
-        "/images/images-cars/accent.png",
-        "/images/images-cars/accent.png"
+        "/images/images-cars/images-reel/hyundai-accent-1.jpeg",
+        "/images/images-cars/images-reel/hyundai-accent-2.jpeg",
+        "/images/images-cars/images-reel/hyundai-accent-3.jpeg",
+        "/images/images-cars/images-reel/hyundai-accent-4.jpeg"
       ],
       "description": "Modern SUV with great handling and comfort",
       "features": [
@@ -366,9 +383,10 @@
       "pricePerDay": 1100,
       "images": [
         "/images/images-cars/range-rover-evoque.png",
-        "/images/images-cars/range-rover-evoque.png",
-        "/images/images-cars/range-rover-evoque.png",
-        "/images/images-cars/range-rover-evoque.png"
+        "/images/images-cars/images-reel/evoque-1.jpeg",
+        "/images/images-cars/images-reel/evoque-2.jpeg",
+        "/images/images-cars/images-reel/evoque-3.jpeg",
+        "/images/images-cars/images-reel/evoque-4.jpeg"
       ],
       "description": "Luxury sedan with advanced features and performance",
       "features": [
@@ -379,7 +397,7 @@
         "USB Port"
       ]
     },
-     {
+    {
       "id": 16,
       "name": "Land Rover sport",
       "brand": "Land Rover",
@@ -388,7 +406,7 @@
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Diesel",
-      "pricePerDay": 2000,
+      "pricePerDay": 3000,
       "images": [
         "/images/images-cars/range-rover-sport.webp",
         "/images/images-cars/range-rover-sport.webp",
@@ -406,19 +424,20 @@
     },
     {
       "id": 17,
-      "name": "Volkswagen Touareg Executive",
+      "name": "Volkswagen Touareg",
       "brand": "Volkswagen",
       "model": "2.0L",
       "year": 2026,
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Diesel",
-      "pricePerDay": 1800,
+      "pricePerDay": 1100,
       "images": [
         "/images/images-cars/volk-touarg.png",
-        "/images/images-cars/volk-touarg.png",
-        "/images/images-cars/volk-touarg.png",
-        "/images/images-cars/volk-touarg.png"
+        "/images/images-cars/images-reel/vw-touareg-1.jpeg",
+        "/images/images-cars/images-reel/vw-touareg-2.jpeg",
+        "/images/images-cars/images-reel/vw-touareg-3.jpeg",
+        "/images/images-cars/images-reel/vw-touareg-4.jpeg"
       ],
       "description": "Luxury sedan with advanced features and performance",
       "features": [
@@ -429,21 +448,22 @@
         "USB Port"
       ]
     },
-     {
+    {
       "id": 18,
-      "name": "Volkswagen Golf 8,5",
+      "name": "Volkswagen Golf 8",
       "brand": "Volkswagen",
       "model": "2.0L",
       "year": 2026,
       "seats": 5,
       "transmission": "Automatic",
       "fuelType": "Diesel",
-      "pricePerDay": 700,
+      "pricePerDay": 750,
       "images": [
         "/images/images-cars/golf-8.png",
-        "/images/images-cars/golf-8.png",
-        "/images/images-cars/golf-8.png",
-        "/images/images-cars/golf-8.png"
+        "/images/images-cars/images-reel/vw-golf-1.jpeg",
+        "/images/images-cars/images-reel/vw-golf-2.jpeg",
+        "/images/images-cars/images-reel/vw-golf-3.jpeg",
+        "/images/images-cars/images-reel/vw-golf-4.jpeg"
       ],
       "description": "Luxury sedan with advanced features and performance",
       "features": [
@@ -453,7 +473,7 @@
         "Airbags"
       ]
     },
-     {
+    {
       "id": 19,
       "name": "dacia Jogger",
       "brand": "Dacia",
@@ -462,7 +482,7 @@
       "seats": 5,
       "transmission": "Manual",
       "fuelType": "Diesel",
-      "pricePerDay": 450,
+      "pricePerDay": 400,
       "images": [
         "/images/images-cars/jogger.png",
         "/images/images-cars/jogger.png",
@@ -476,7 +496,32 @@
         "Bluetooth",
         "Airbags"
       ]
+    },
+    {
+      "id": 20,
+      "name": "audi q5",
+      "brand": "Audi",
+      "model": "2.0L",
+      "year": 2026,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 2200,
+      "images": [
+        "/images/images-cars/audi-q.png",
+        "/images/images-cars/images-reel/audi-q5-1.jpeg",
+        "/images/images-cars/images-reel/audi-q5-2.jpeg",
+        "/images/images-cars/images-reel/audi-q5-3.jpeg",
+        "/images/images-cars/images-reel/audi-q5-4.jpeg",
+        "/images/images-cars/images-reel/audi-q5-5.jpeg"
+      ],
+      "description": "",
+      "features": [
+        "Air Conditioning",
+        "GPS Navigation",
+        "Bluetooth",
+        "Airbags"
+      ]
     }
-   
   ]
 }

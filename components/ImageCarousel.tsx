@@ -50,7 +50,7 @@ export default function ImageCarousel({
 
   return (
     <div
-      className="relative w-full h-64 sm:h-96 rounded-lg overflow-hidden bg-muted group"
+      className="relative w-full h-64 sm:h-[544px] rounded-lg overflow-hidden bg-muted group"
       onMouseEnter={() => setIsAutoPlaying(false)}
       onMouseLeave={() => setIsAutoPlaying(autoPlay)}
     >

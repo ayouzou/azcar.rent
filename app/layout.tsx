@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description: 'Rent premium cars across Morocco with AZ Rent Car. Available at Mohamed V Airport and major cities.',
     images: [
       {
-        url: '/og-image.jpg',
+        url: '/apple-icon.png',
         width: 1200,
         height: 630,
         alt: 'AZ Rent Car - Premium Car Rental Service',
